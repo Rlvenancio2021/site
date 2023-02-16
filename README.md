@@ -2,7 +2,7 @@
 
 ## Projeto site modelo criado em _HTML e CSS_
 
-Este é um projeto de reprodução de um site static utilizando, criado para testar o que aprendi com HTML e CSS. Esté é apenas a reprodução de um conteúdo, porém estou desenvolvendo um outro projeto para meu site pessoal, para acessar [clique aqui](https://rodrigovenancio.herokuapp.com/index)
+Este é um projeto de reprodução de um site static utilizando, criado para testar o que aprendi com HTML e CSS. Esté é apenas a reprodução de um conteúdo, porém estou desenvolvendo um outro projeto para meu site pessoal, para acessar [clique aqui](https://www.rodrigolvenancio.com.br)
 
 ### Tecnologias utilizadas neste projeto
 
